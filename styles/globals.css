@@ -1,0 +1,41 @@
+@import url('//use.typekit.net/tqf7nna.css');
+
+/*
+|------------------------------------------------------------------|
+|                             BASE                                 |
+|------------------------------------------------------------------|
+*/
+* {
+  margin: 0;
+  padding: 0;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*:focus {
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none !important;
+}
+a:hover {
+  text-decoration: none !important;
+}
+
+/*
+|------------------------------------------------------------------|
+|                        SLICK SLIDER                              |
+|------------------------------------------------------------------|
+*/
