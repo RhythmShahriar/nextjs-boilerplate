@@ -21,6 +21,7 @@ class AppDocument extends Document {
             }}
           /> */}
           {/* <!-- End Google Tag Manager --> */}
+          <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         </Head>
         <body>
           {/* <!-- Google Tag Manager (noscript) --> */}
