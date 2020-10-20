@@ -1,5 +1,3 @@
-This repo contain the source code of `industrydive.tech`
-
 ## Getting Started
 
 First, run the development server:
@@ -8,6 +6,14 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+```
+
+Build Statis HTML:
+
+```bash
+npm run build
+# or
+yarn build
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
